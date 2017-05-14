@@ -1,0 +1,74 @@
+D:\Assignmentss\C#\WordNetDT\bin\Debug\intro.htm
+D:\Assignmentss\C#\WordNetDT\bin\Debug\Metaphone.NET.pdb
+D:\Assignmentss\C#\WordNetDT\bin\Debug\WordNetClasses.pdb
+D:\Assignmentss\C#\WordNetDT\obj\Debug\ELLT.csprojResolveAssemblyReference.cache
+D:\Assignmentss\C#\WordNetDT\obj\Debug\WordNet.wnb.StartForm.resources
+D:\Assignmentss\C#\WordNetDT\obj\Debug\ELLT.csproj.GenerateResource.Cache
+D:\Assignmentss\C#\WordNetDT\bin\Debug\ApplicatopnHelp.txt
+D:\Assignmentss\C#\WordNetDT\bin\Debug\ELLT.exe
+D:\Assignmentss\C#\WordNetDT\bin\Debug\ELLT.pdb
+D:\Assignmentss\C#\WordNetDT\obj\Debug\ELLT.Properties.Resources.resources
+D:\Assignmentss\C#\WordNetDT\obj\Debug\ELLT.exe
+D:\Assignmentss\C#\WordNetDT\obj\Debug\ELLT.pdb
+D:\Assignmentss\C#\ELLT\obj\Debug\ELLT.exe
+D:\Assignmentss\C#\ELLT\obj\Debug\ELLT.pdb
+D:\Assignmentss\C#\ELLT\bin\Debug\ApplicatopnHelp.txt
+D:\Assignmentss\C#\ELLT\bin\Debug\ELLT.exe
+D:\Assignmentss\C#\ELLT\bin\Debug\ELLT.pdb
+D:\Assignmentss\C#\ELLT\bin\Debug\Metaphone.NET.pdb
+D:\Assignmentss\C#\ELLT\bin\Debug\WordNetClasses.pdb
+D:\Assignmentss\C#\ELLT\obj\Debug\ELLT.csprojResolveAssemblyReference.cache
+D:\Assignmentss\C#\ELLT\obj\Debug\ELLT.Properties.Resources.resources
+D:\Assignmentss\C#\ELLT\obj\Debug\WordNet.wnb.StartForm.resources
+D:\Assignmentss\C#\ELLT\obj\Debug\ELLT.csproj.GenerateResource.Cache
+D:\Assignmentss\C#\ELLT\bin\Debug\AboutApp.htm
+D:\Assignmentss\C#\ELLT\bin\Debug\RightSide.htm
+K:\word net latest\obj\Debug\ELLT.exe
+K:\word net latest\obj\Debug\ELLT.pdb
+K:\word net latest\bin\Debug\AboutApp.htm
+K:\word net latest\bin\Debug\ApplicatopnHelp.txt
+K:\word net latest\bin\Debug\RightSide.htm
+K:\word net latest\bin\Debug\ELLT.exe
+K:\word net latest\bin\Debug\ELLT.pdb
+K:\word net latest\bin\Debug\Metaphone.NET.pdb
+K:\word net latest\bin\Debug\WordNetClasses.pdb
+K:\word net latest\obj\Debug\ELLT.csprojResolveAssemblyReference.cache
+K:\word net latest\obj\Debug\ELLT.Properties.Resources.resources
+K:\word net latest\obj\Debug\WordNet.wnb.StartForm.resources
+K:\word net latest\obj\Debug\ELLT.csproj.GenerateResource.Cache
+K:\test folder\word net latest\obj\Debug\ELLT.exe
+K:\test folder\word net latest\obj\Debug\ELLT.pdb
+K:\test folder\word net latest\bin\Debug\AboutApp.htm
+K:\test folder\word net latest\bin\Debug\ApplicatopnHelp.txt
+K:\test folder\word net latest\bin\Debug\RightSide.htm
+K:\test folder\word net latest\bin\Debug\ELLT.exe
+K:\test folder\word net latest\bin\Debug\ELLT.pdb
+K:\test folder\word net latest\bin\Debug\Metaphone.NET.pdb
+K:\test folder\word net latest\bin\Debug\WordNetClasses.pdb
+K:\test folder\word net latest\obj\Debug\ELLT.csprojResolveAssemblyReference.cache
+K:\test folder\word net latest\obj\Debug\ELLT.Properties.Resources.resources
+K:\test folder\word net latest\obj\Debug\WordNet.wnb.StartForm.resources
+K:\test folder\word net latest\obj\Debug\ELLT.csproj.GenerateResource.Cache
+C:\Users\Nasser\Desktop\word net 1\word net latest\obj\Debug\ELLT.exe
+C:\Users\Nasser\Desktop\word net 1\word net latest\obj\Debug\ELLT.pdb
+C:\Users\Nasser\Desktop\word net 1\word net latest\bin\Debug\AboutApp.htm
+C:\Users\Nasser\Desktop\word net 1\word net latest\bin\Debug\ApplicatopnHelp.txt
+C:\Users\Nasser\Desktop\word net 1\word net latest\bin\Debug\RightSide.htm
+C:\Users\Nasser\Desktop\word net 1\word net latest\bin\Debug\ELLT.exe
+C:\Users\Nasser\Desktop\word net 1\word net latest\bin\Debug\ELLT.pdb
+C:\Users\Nasser\Desktop\word net 1\word net latest\obj\Debug\ELLT.Properties.Resources.resources
+C:\Users\Nasser\Desktop\word net 1\word net latest\obj\Debug\WordNet.wnb.StartForm.resources
+C:\Users\Nasser\Desktop\word net 1\word net latest\obj\Debug\ELLT.csproj.GenerateResource.Cache
+C:\Users\Ismail\Desktop\project\word net 1\word net latest\obj\Debug\ELLT.exe
+C:\Users\Ismail\Desktop\project\word net 1\word net latest\obj\Debug\ELLT.pdb
+E:\University of Huddersfield\word net second draft\word net latest\bin\Debug\AboutApp.htm
+E:\University of Huddersfield\word net second draft\word net latest\bin\Debug\ApplicatopnHelp.txt
+E:\University of Huddersfield\word net second draft\word net latest\bin\Debug\RightSide.htm
+E:\University of Huddersfield\word net second draft\word net latest\bin\Debug\ELLT.exe
+E:\University of Huddersfield\word net second draft\word net latest\bin\Debug\ELLT.pdb
+E:\University of Huddersfield\word net second draft\word net latest\obj\Debug\ELLT.csprojResolveAssemblyReference.cache
+E:\University of Huddersfield\word net second draft\word net latest\obj\Debug\ELLT.Properties.Resources.resources
+E:\University of Huddersfield\word net second draft\word net latest\obj\Debug\WordNet.wnb.StartForm.resources
+E:\University of Huddersfield\word net second draft\word net latest\obj\Debug\ELLT.csproj.GenerateResource.Cache
+E:\University of Huddersfield\word net second draft\word net latest\obj\Debug\ELLT.exe
+E:\University of Huddersfield\word net second draft\word net latest\obj\Debug\ELLT.pdb
